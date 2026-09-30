@@ -18,12 +18,6 @@ For a very short submission video, capture:
 - EduGenie homepage.
 - One question and its generated answer/result.
 
-## 4. Local Run Command
-```bash
-uvicorn main:app --reload
-```
-
-Open:
-```text
-http://127.0.0.1:8000
+## 4. DEMO LINK
+Google Drive demo video link:https://drive.google.com/file/d/1dNJAjlOUGJCtMU95dHOanHECOdO4CHDS/view?usp=drivesdk
 ```
